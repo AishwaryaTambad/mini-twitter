@@ -1,0 +1,24 @@
+*{
+    margin:0;
+    padding:0;
+}
+.home{
+    /* background-image: linear-gradient(90deg,#1FB080  50%, #03442F 50%); */
+    /* background:linear-gradient(90 deg,url("images/logo.jpg") ,#03442F 50%)   ; */
+    /* background-size: cover; */
+    position: fixed;
+    height: 100vh;
+    margin-top:-1%;
+}
+.Left{
+    background-color: #fff;;
+    height: 100vh;
+    width:50%;
+    margin-left: 0%;
+
+}
+img{
+height:100vh;
+width:100%;
+
+}
